@@ -23,3 +23,34 @@ int dice = rnd.Next(1, 7);   // creates a number between 1 and 6
 int card = rnd.Next(52);     // creates a number between 0 and 51
 
 --------------------------------------------------
+nano documento.txt
+ctrl+o guardar
+Ctrl+x Salir
+---------------------------------------------------
+redefundicion 
+(int)(metodo o variable)
+CharAt()//metodo de la clase string que se utiliza para 
+selecionar un carater
+length()
+longitud
+ElementAt en cshar
+Scanner-nextLine();
+Integer.parseInt();
+switch(condicion)
+{case 1: resultado.}
+----------------------------------------------------
+matrices
+Es una estrutura de datos que contiene una colección de 
+valores del mismo tipo.
+Sé utiliza para almacenar valores normalmente tienen 
+alguna relación entre sí.
+
+declaración: int[] mi_matriz= new int[10];
+int[] mi_matriz ={numero indeterminado};//declaracion 
+inplicita.
+
+for(int i =0; i<mi_matriz.length();i++)
+{
+System.out.printLn(mi_matriz[i]);
+}
+
