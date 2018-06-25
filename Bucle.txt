@@ -46,6 +46,7 @@ Sé utiliza para almacenar valores normalmente tienen
 alguna relación entre sí.
 
 declaración: int[] mi_matriz= new int[10];
+
 int[] mi_matriz ={numero indeterminado};//declaracion 
 inplicita.
 
@@ -53,4 +54,21 @@ for(int i =0; i<mi_matriz.length();i++)
 {
 System.out.printLn(mi_matriz[i]);
 }
+
+for each
+for(declaracion de la varible igual a la  que se utilizará para 
+recorrer, variable.el arreglo)
+for(string elementos.paises)
+{
+lineas
+}
+Matrices 
+Bidimencionales................
+int[][] arreglo = new int[3][5];
+Esta compuesta de filas y columnas.
+
+paquetes = carpetas 
+//contrutor: Es el que se encarga de dar un
+estado inicial a las variables.
+
 
